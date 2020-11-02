@@ -1,0 +1,24 @@
+{
+    "id": "2611964E",
+    "path": "~/datasciencecoursera/ExData_Plotting1/load and clean data.R",
+    "project_path": "load and clean data.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1604272342187.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "31,0",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604279744,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604279744757,
+    "read_only": false,
+    "read_only_alternatives": []
+}
